@@ -1,4 +1,4 @@
-package com.example.basics.inheritance.example1;
+package com.example.oop.basics.inheritance.example1;
 
 public class SuperCar extends Car{
     SuperCar() {

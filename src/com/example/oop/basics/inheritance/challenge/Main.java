@@ -1,4 +1,4 @@
-package com.example.basics.inheritance.employee.challenge;
+package com.example.oop.basics.inheritance.challenge;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.basics.inheritance.example2_shop;
+package com.example.oop.basics.inheritance.example2_shop;
 
 public class Shop {
     public static void main(String[] args) {

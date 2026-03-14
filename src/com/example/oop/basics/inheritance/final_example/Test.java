@@ -1,4 +1,4 @@
-package com.example.basics.inheritance.final_example;
+package com.example.oop.basics.inheritance.final_example;
 
 class Employee {
     String name;
